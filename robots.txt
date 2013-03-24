@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://sherzzo.github.com/scrolls/sitemap.xml 
