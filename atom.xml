@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Developer scrolls]]></title>
   <link href="http://sherzzo.github.com/scrolls/atom.xml" rel="self"/>
   <link href="http://sherzzo.github.com/scrolls/"/>
-  <updated>2013-03-24T18:38:23-04:00</updated>
+  <updated>2013-03-24T18:52:35-04:00</updated>
   <id>http://sherzzo.github.com/scrolls/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Sherzod Odinaev]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
